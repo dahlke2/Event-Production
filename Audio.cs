@@ -12,10 +12,6 @@ namespace ProductionOrganization
 	{
 		private bool HasWheels;
 
-		public void IamaCase(){
-			Console.WriteLine ("I am a case.");
-		}
-
 		public bool Wheels {
 			get {
 				return HasWheels;
@@ -47,7 +43,7 @@ namespace ProductionOrganization
 	//Class for speaker units 
 	class Speaker : Equipment
 	{
-		private string myType;
+		private string mySpeakerType;
 		private string[] myDrivers;
 	}
 }

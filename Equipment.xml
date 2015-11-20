@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--	Equipment.xml-->
+<!--	Created by Ethan Dahlke on November 1, 2015-->
+<!-- 	Last modified on November 19, 2015-->
+
+<equipment>
+<!--	<audio>-->
+		<unit ID = "NL Speaker Cable" Type = "Audio" Group = "Alpha">
+			<contents>NL8 cables for 24 Line Array Boxes and 12 NL4 cables</contents>
+			<weight Units = "lbs">250</weight>
+			<length Units = "in">45</length>
+			<width Units = "in">22.5</width>
+			<height Units = "in">26</height>
+			<consumables/>
+			<companions/>
+			<notes/>
+			<shoplocation/>
+		</unit>
+
+		<unit ID = "NL Speaker Cable" Type = "Audio" Group = "Beta">
+			<contents>NL8 cables for X-Array and 14 NL4 Cables for 12 mixes</contents>
+			<weight Units = "lbs">250</weight>
+			<length Units = "in">45</length>
+			<width Units = "in">22.5</width>
+			<height Units = "in">26</height>
+			<consumables/>
+			<companions/>
+			<notes/>
+			<shoplocation/>
+		</unit>
+
+		<unit ID = "Power Cables" Type = "Audio" Group = "Beta">
+			<contents>4-pin twist-loc and edison cables</contents>
+			<weight Units = "lbs">250</weight>
+			<length Units = "in">45</length>
+			<width Units = "in">22.5</width>
+			<height Units = "in">26</height>
+			<consumables/>
+			<companions/>
+			<notes/>
+			<shoplocation/>
+		</unit>
+<!--	</audio>-->
+
+<!--	<lighting>-->
+<!--	</lighting>-->
+</equipment>
